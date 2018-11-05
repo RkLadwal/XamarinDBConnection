@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using PCLStorage;
+using System;
 
 namespace App1
 {
@@ -65,7 +66,7 @@ namespace App1
             }
         }
 
-        public int DeleteItem(int id)
+        public int DeleteItem(int id,dynamic tableName)
         {
             lock (locker)
             {
