@@ -25,5 +25,33 @@ C:\Users\graycell\documents\visual studio 2015\Projects\App1\App1\App1\obj\Debug
 C:\Users\graycell\documents\visual studio 2015\Projects\App1\App1\App1\obj\Debug\App1.Home.xaml.g.cs
 C:\Users\graycell\documents\visual studio 2015\Projects\App1\App1\App1\obj\Debug\App1.dll.mdb
 C:\Users\graycell\documents\visual studio 2015\Projects\App1\App1\App1\bin\Debug\App1.dll.mdb
-C:\Users\graycell\documents\visual studio 2015\Projects\App1\App1\App1\obj\Debug\App1.dll.mdb
-C:\Users\graycell\documents\visual studio 2015\Projects\App1\App1\App1\bin\Debug\App1.dll.mdb
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\App1.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\App1.pdb
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\PCLStorage.Abstractions.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\PCLStorage.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\SQLite-net.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\SQLitePCLRaw.batteries_green.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\SQLitePCLRaw.core.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\Xamarin.Forms.Core.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\PCLStorage.xml
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\PCLStorage.Abstractions.xml
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\SQLite-net.xml
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\Xamarin.Forms.Core.xml
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\obj\Debug\App1.MainPage.xaml.g.cs
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\obj\Debug\App1.App.xaml.g.cs
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\obj\Debug\App1.LoginPage.xaml.g.cs
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\obj\Debug\App1.Registration.xaml.g.cs
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\obj\Debug\App1.Home.xaml.g.cs
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\obj\Debug\App1.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\obj\Debug\App1.pdb
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\obj\Debug\App1.dll.mdb
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\App1.dll.mdb
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\obj\Debug\App1.dll.mdb
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\App1.dll.mdb
