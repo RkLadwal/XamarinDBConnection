@@ -10,7 +10,6 @@ namespace App1
 {
     public partial class ListItems : ContentPage
     {
-        SqlHelper
         public ListItems()
         {
             InitializeComponent();

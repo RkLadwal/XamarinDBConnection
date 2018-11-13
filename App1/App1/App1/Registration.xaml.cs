@@ -15,6 +15,7 @@ namespace App1
         {
             InitializeComponent();
         }
+
         async void Click_Reg(object sender, EventArgs e)
         {
 

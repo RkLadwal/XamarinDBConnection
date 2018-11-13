@@ -3,6 +3,7 @@
   <Jars></Jars>
   <ResolvedResourceDirectories>
     <ResolvedResourceDirectory>D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\__library_projects__\PCLStorage\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_green\library_project_imports\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_v2\library_project_imports\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\__library_projects__\SQLitePCLRaw.core\library_project_imports\res</ResolvedResourceDirectory>
@@ -12,6 +13,7 @@
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\PCLStorage\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCLRaw.batteries_green\library_project_imports\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCLRaw.batteries_v2\library_project_imports\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCLRaw.core\library_project_imports\assets</ResolvedAssetDirectory>
@@ -22,6 +24,7 @@
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
     <ResolvedResourceDirectoryStamp>D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\__library_projects__\PCLStorage.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_green.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_v2.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\__library_projects__\SQLitePCLRaw.core.stamp</ResolvedResourceDirectoryStamp>

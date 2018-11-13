@@ -4,6 +4,9 @@ D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\F
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\PCLStorage.Abstractions.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\PCLStorage.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\SQLite-net.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\SQLite.Net.Async.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\SQLite.Net.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\SQLite.Net.Platform.XamarinAndroid.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\SQLitePCLRaw.batteries_green.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\SQLitePCLRaw.batteries_v2.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\SQLitePCLRaw.core.dll
@@ -35,6 +38,7 @@ D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\S
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.Diagnostics.Debug.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.Linq.Expressions.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.Dynamic.Runtime.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.Threading.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.Linq.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.Collections.dll
@@ -43,10 +47,10 @@ D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\S
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.Runtime.Extensions.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.Reflection.Extensions.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.Globalization.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.Text.Encoding.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.ObjectModel.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.ComponentModel.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
-D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.Dynamic.Runtime.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.Net.Http.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll

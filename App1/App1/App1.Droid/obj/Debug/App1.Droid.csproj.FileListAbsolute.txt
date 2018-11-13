@@ -165,5 +165,8 @@ D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\S
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\bin\Debug\SQLite.Net.Async.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\bin\Debug\SQLite.Net.dll
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\obj\Debug\App1.Droid.dll.mdb
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1.Droid\bin\Debug\App1.Droid.dll.mdb

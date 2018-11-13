@@ -51,6 +51,7 @@ D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\obj\Debug\App1.Registration.xaml
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\obj\Debug\App1.Home.xaml.g.cs
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\obj\Debug\App1.dll
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\obj\Debug\App1.pdb
+D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\obj\Debug\App1.ListItems.xaml.g.cs
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\obj\Debug\App1.dll.mdb
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\bin\Debug\App1.dll.mdb
 D:\Rahul\Git\XamarinDBConnection\App1\App1\App1\obj\Debug\App1.dll.mdb
